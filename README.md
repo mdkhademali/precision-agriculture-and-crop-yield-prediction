@@ -1,8 +1,5 @@
 
-## Agriculture AI Research Project
-
-## Overview
-
+## Precision Agriculture and Crop Yield Prediction
 This project demonstrates how Artificial Intelligence and Machine Learning
 can support **Precision Agriculture and Crop Yield Prediction**.
 
