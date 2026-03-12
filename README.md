@@ -10,6 +10,31 @@ The project combines:
 - Data Science Workflow
 - Research-ready project structure
 
+## Project Images
+
+Here are some snapshots from the Precision Agriculture and Crop Yield Prediction project:
+
+<!-- First row: 4 images -->
+<p float="left">
+  <img src="images/download (13).png" width="200" />
+  <img src="images/download (4).png" width="200" />
+  <img src="images/download (6).png" width="200" />
+  <img src="images/download (5).png" width="200" />
+</p>
+
+<!-- Second row: 4 images -->
+<p float="left">
+  <img src="images/download (7).png" width="200" />
+  <img src="images/download (12).png" width="200" />
+  <img src="images/download (9).png" width="200" />
+  <img src="images/download (10).png" width="200" />
+</p>
+
+<!-- Third row: 1 image -->
+<p float="left">
+  <img src="images/download (8).png" width="200" />
+</p>
+
 ## Research Objectives
 
 1. Predict crop yield using environmental and soil variables
