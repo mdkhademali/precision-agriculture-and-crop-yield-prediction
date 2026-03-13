@@ -43,7 +43,7 @@ Here are some snapshots from the Precision Agriculture and Crop Yield Prediction
 
 ## Features
 
-- Random Forest ML model
+- Random Forest Machine Learning model
 - Data preprocessing pipeline
 - Model evaluation
 - MATLAB implementation
